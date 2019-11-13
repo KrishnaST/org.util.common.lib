@@ -19,7 +19,7 @@
 		<sql.version>7.4.1.jre12</sql.version>
 		<jersey.version>2.29</jersey.version>
 		<jackson.core.version>2.9.9</jackson.core.version>
-		<jackson.version>2.9.9.3</jackson.version>
+		<jackson.version>2.9.10.1</jackson.version>
 		<jakarta.inject>2.6.0</jakarta.inject>
 	</properties>
 
